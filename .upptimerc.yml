@@ -1,9 +1,0 @@
-owner: climateseed
-repo: services-health # GitHub repository name
-status-website:
-  baseUrl: /services-health
-sites: # List of endpoints to track
-  - name: Google
-    url: https://www.google.com
-assignees: # Users to assign downtime issues (optional)
-  - AnandChowdhary
