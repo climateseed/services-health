@@ -5,18 +5,18 @@ status-website:
   baseUrl: /services-health
   
   logoUrl: https://raw.githubusercontent.com/ClimateSeed/services-health/master/assets/c_green.png
-  name: Climatseed services status
-  introTitle: "Here you can find uptime of different climateseed's services"
+  name: ClimatSeed's Services Systems Status
   navbar:
     - title: Status
-      href: /
+      href: https://climateseed.com
 
 sites:
-  - name: Gems (Website)
+  - name: GEMS (Website)
     url: https://gems.climateseed.com
-  - name: Gems (API)
+  - name: GEMS (API)
     url: https://dev.gems.climateseed.com/api/k8/liveness
-  - name: Gold (Website)
+  - name: Contribution Platform (Website)
     url: https://app.climateseed.com
 assignees:
-  - asyade
+  - reemalsobaiee-cs
+  - Aeradriel
