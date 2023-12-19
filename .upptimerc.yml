@@ -3,7 +3,8 @@ owner: climateseed # Your GitHub organization or username, where this repository
 repo: services-health # GitHub repository name
 status-website:
   baseUrl: /services-health
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  
+  logoUrl: https://raw.githubusercontent.com/ClimateSeed/services-health/master/assets/c_green.png
   name: Climatseed services status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
@@ -14,13 +15,11 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Gems (Website)
+    url: https://gems.climateseed.com
+  - name: Gems (API)
+    url: https://dev.gems.climateseed.com/api/k8/liveness
+  - name: Gold (Website)
+    url: https://app.climateseed.com
 assignees:
   - asyade
