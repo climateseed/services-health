@@ -1,6 +1,6 @@
 [
   {
-    "name": "Gems (Website)",
+    "name": "GEMS (Website)",
     "url": "https://gems.climateseed.com",
     "icon": "https://icons.duckduckgo.com/ip3/gems.climateseed.com.ico",
     "slug": "gems-website",
@@ -18,7 +18,7 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Gems (API)",
+    "name": "GEMS (API)",
     "url": "https://dev.gems.climateseed.com/api/k8/liveness",
     "icon": "https://icons.duckduckgo.com/ip3/dev.gems.climateseed.com.ico",
     "slug": "gems-api",
@@ -36,21 +36,21 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Gold (Website)",
+    "name": "Contribution Platform (Website)",
     "url": "https://app.climateseed.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.climateseed.com.ico",
-    "slug": "gold-website",
+    "slug": "contribution-platform-website",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 423,
-    "timeDay": 423,
-    "timeWeek": 423,
-    "timeMonth": 423,
-    "timeYear": 423,
+    "time": 366,
+    "timeDay": 366,
+    "timeWeek": 366,
+    "timeMonth": 366,
+    "timeYear": 366,
     "dailyMinutesDown": {}
   }
 ]
