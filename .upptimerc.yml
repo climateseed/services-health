@@ -13,13 +13,6 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-
-sites: # List of endpoints to track
-  - name: Google
-    url: https://www.google.com
-assignees: # Users to assign downtime issues (optional)
-  - AnandChowdhary
-
 sites:
   - name: Google
     url: https://www.google.com
@@ -29,4 +22,5 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-
+assignees:
+  - asyade
