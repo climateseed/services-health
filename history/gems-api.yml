@@ -1,7 +1,7 @@
 url: https://dev.gems.climateseed.com/api/k8/liveness
-status: down
-code: 503
-responseTime: 352
-lastUpdated: 2023-12-21T16:33:14.663Z
+status: up
+code: 200
+responseTime: 479
+lastUpdated: 2023-12-21T16:42:36.803Z
 startTime: 2023-12-19T15:21:49.664Z
 generator: Upptime <https://github.com/upptime/upptime>
