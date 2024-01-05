@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 367,
-    "timeDay": 553,
-    "timeWeek": 358,
-    "timeMonth": 367,
-    "timeYear": 367,
+    "time": 366,
+    "timeDay": 341,
+    "timeWeek": 364,
+    "timeMonth": 366,
+    "timeYear": 366,
     "dailyMinutesDown": {
       "2023-12-22": 8
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.gems.climateseed.com.ico",
     "slug": "gems-api",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 383,
-    "timeDay": 485,
-    "timeWeek": 368,
-    "timeMonth": 383,
-    "timeYear": 383,
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 381,
+    "timeDay": 341,
+    "timeWeek": 365,
+    "timeMonth": 381,
+    "timeYear": 381,
     "dailyMinutesDown": {
       "2023-12-21": 9,
       "2023-12-20": 8
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 497,
-    "timeDay": 660,
-    "timeWeek": 459,
-    "timeMonth": 497,
-    "timeYear": 497,
+    "time": 498,
+    "timeDay": 513,
+    "timeWeek": 476,
+    "timeMonth": 498,
+    "timeYear": 498,
     "dailyMinutesDown": {}
   }
 ]
