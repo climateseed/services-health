@@ -14,7 +14,7 @@ sites:
   - name: GEMS (Website)
     url: https://gems.climateseed.com
   - name: GEMS (API)
-    url: https://dev.gems.climateseed.com/api/k8/liveness
+    url: https://gems.climateseed.com/api/k8/liveness
   - name: Contribution Platform (Website)
     url: https://app.climateseed.com
 assignees:
